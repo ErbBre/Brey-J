@@ -1,7 +1,5 @@
 - 👋 Soy @Bre
 - 👀 Me interesa el desarrollo movil, web e inteligencia artificial
-- 🌱 Actualmente estoy aprendiendo desarrollo movil
-- 💞️ Busco colaborar en desarrollo web o movil
 - 📫 Como contactarme:
                       * Whatsapp : 921990278
                       * Gmail    : breyimp@gmail.com
